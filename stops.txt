@@ -1,0 +1,25 @@
+stop_id,stop_name,stop_lat,stop_lon
+401,Marriott's Beach Place,26.12195,-80.104362
+418,Museum of Discovery and Science,26.120447,-80.147438
+601,Broward General Hospital,26.100998,-80.139847
+621,Galleria Mall,26.137892,-80.110817
+701,Fort Lauderdale History Center,26.119902,-80.14566
+718,Fort Lauderdale International Airport,26.069815,-80.143417
+1301,Broward College,26.119366,-80.141333
+1302,Florida Atlantic University,26.119690,-80.141341
+1303,Federal Courthouse,26.122871,-80.140566
+1304,Flagler Village,26.129753,-80.143761
+1305,Fort Lauderdale City Hall,26.124168,-80.143600
+1306,BCT Central Terminal,26.123293,-80.144617
+1307,Broward County GovGarage,26.121307,-80.144520
+1308,Broward County Government Center,26.120540,-80.143981
+1309,Broward County Libary,26.120569,-80.143421
+1310,City Park,26.120596,-80.141931
+1311,Courthouse Parking,26.115773,-80.140372
+1312,Broward County Courthouse,26.115171,-80.140303
+1313,Broward General Hospital,26.100913,-80.140902
+1314,Publix,26.114245,-80.143264
+1315,Huizenga Park,26.118489,-80.143335
+1316,One River Plaza Parking,26.119167,-80.143311
+1317,Museum of Art,26.119590,-80.143317
+1318,Las Olas Riverfront,26.119855,-80.143365
