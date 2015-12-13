@@ -1,6 +1,16 @@
 stop_id,stop_name,stop_lat,stop_lon
 401,Marriott's Beach Place,26.12195,-80.104362
 418,Museum of Discovery and Science,26.120447,-80.147438
+501,Galt Reading Center,26.170176,-80.099136
+502,Anglin Fishing Pier,26.189439,-80.095800
+503,Lauderdale-By-The-Sea Town Hall,26.192330,-80.096413
+504,Lauderdale-By-The-Sea Visitor Center,26.186228,-80.097058
+505,Coral Ridge Towers,26.172597,-80.102637
+506,Beach Community Center,26.169943,-80.102465
+507,Coral Ridge Mall,26.168367,-80.115972
+508,Bayview/NE 26th Street,26.159934,-80.109635
+509,Galleria Mall,26.137798,-80.114621
+510,SR A1A/NE 21st Street,26.155594,-80.101233
 601,Broward General Hospital,26.100998,-80.139847
 621,Galleria Mall,26.137892,-80.110817
 701,Fort Lauderdale History Center,26.119902,-80.14566
