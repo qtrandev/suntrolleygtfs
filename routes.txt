@@ -6,6 +6,5 @@ route_id,route_short_name,route_long_name,route_type,route_color
 8,Neighborhood,Neighborhood Link,3,FFFFFF
 9,Water Trolley,Water Trolley,4,FFFFFF
 10,NW Community,NW Community Link,3,FFFFFF
-11,Pelican Hopper,Free Lauderdale-By-The-Sea Pelican Hopper,3,FFFFFF
 12,Uptown,Uptown Link,3,FFFFFF
 13,Downtown,Downtown Link,3,FFFFFF
