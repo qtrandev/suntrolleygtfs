@@ -21,6 +21,11 @@ stop_id,stop_name,stop_lat,stop_lon
 1004,Hillmont Gardens,26.153795,-80.155128
 1005,Broward Central Bus Terminal,26.122838,-80.144609
 1006,FREE FDOT Park & Ride,26.119453,-80.170099
+1201,Tri-Rail Station,26.200884,-80.150697
+1202,Uptown Centre,26.204733,-80.147964
+1203,Microsoft/Marriott,26.209894,-80.142377
+1204,Cypress Creek Station,26.205815,-80.147285
+1205,Citrix Loop,26.207543,-80.151565
 1301,Broward College,26.119366,-80.141333
 1302,Florida Atlantic University,26.119690,-80.141341
 1303,Federal Courthouse,26.122871,-80.140566

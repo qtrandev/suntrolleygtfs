@@ -9,5 +9,6 @@ route_id,service_id,trip_id,trip_headsign,shape_id
 9,9,19,Water Trolley,9
 10,10,10A,NW Community Link,10
 10,10,10B,NW Community Link,10
-12,12,12,Uptown Link,12
+12,12,12A,Uptown Link,12
+12,12,12B,Uptown Link,12
 13,13,13,Downtown Link,13
