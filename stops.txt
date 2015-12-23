@@ -15,6 +15,20 @@ stop_id,stop_name,stop_lat,stop_lon
 621,Galleria Mall,26.137892,-80.110817
 701,Fort Lauderdale History Center,26.119902,-80.14566
 718,Fort Lauderdale International Airport,26.069815,-80.143417
+801,Broward Central Terminal,26.122838,-80.144609
+802,Sailboat Bend,26.117417,-80.146611
+803,Save-A-Lot,26.127980,-80.150522
+804,Dixie Court Apartments,26.123833,-80.154919
+805,Tri-Rail Station,26.119581,-80.170082
+806,African-American Research Library & Cultural Center,26.128937,-80.176457
+807,Suncrest Court,26.146783,-80.171683
+808,Swap Shop,26.136380,-80.185159
+809,Life Net/Cooperative Feeding,26.121330,-80.191005
+810,West Broward Shopping Center,26.121153,-80.199225
+811,Plantation General Hospital,26.126213,-80.204214
+812,ChildNet(guess),26.121246,-80.202149
+813,Melrose Park,26.115942,-80.191537
+815,Sunnyreach Acres,26.120687,-80.164556
 1001,African American Research Library,26.128937,-80.176457
 1002,Winn-Dixie,26.138964,-80.154932
 1003,Lauderdale Manors Elementary,26.142584,-80.162102
