@@ -1,10 +1,10 @@
 route_id,route_short_name,route_long_name,route_type,route_color
-4,Las Olas,Las Olas Link,3,009999
-5,Galt,Galt Link,3,0066CC
-6,Beach,Beach Link,3,FF0099
-7,Airport,Airport Link,3,FFFFFF
-8,Neighborhood,Neighborhood Link,3,FFFFFF
-9,Water Trolley,Water Trolley,4,FFFFFF
-10,NW Community,NW Community Link,3,FFFFFF
-12,Uptown,Uptown Link,3,FFFFFF
-13,Downtown,Downtown Link,3,FFFFFF
+4,,Las Olas Link,3,009999
+5,,Galt Link,3,0066CC
+6,,Beach Link,3,FF0099
+7,,Airport Link,3,FFFFFF
+8,,Neighborhood Link,3,FFFFFF
+9,,Water Trolley,4,FFFFFF
+10,,NW Community Link,3,FFFFFF
+12,,Uptown Link,3,FFFFFF
+13,,Downtown Link,3,FFFFFF
