@@ -38,12 +38,12 @@ stop_id,stop_name,stop_lat,stop_lon
 906,Downtowner Saloon,26.117603,-80.142563
 907,New River Yacht Club,26.117897,-80.143918
 908,Tarpon River,26.119009,-80.147798
-1001,African American Research Library,26.128937,-80.176457
-1002,Winn-Dixie,26.138964,-80.154932
+1001,African American Research Library,26.128786,-80.177688
+1002,Winn-Dixie,26.138171,-80.154887
 1003,Lauderdale Manors Elementary,26.142584,-80.162102
 1004,Hillmont Gardens,26.153795,-80.155128
-1005,Broward Central Bus Terminal,26.122838,-80.144609
-1006,FREE FDOT Park & Ride,26.119453,-80.170099
+1005,Broward Central Bus Terminal,26.123556,-80.144742
+1006,Tri-Rail FREE FDOT Park & Ride,26.118870,-80.170001
 1201,Tri-Rail Station,26.200884,-80.150697
 1202,Uptown Centre,26.204733,-80.147964
 1203,Microsoft/Marriott,26.209894,-80.142377
