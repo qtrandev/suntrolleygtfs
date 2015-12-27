@@ -15,20 +15,21 @@ stop_id,stop_name,stop_lat,stop_lon
 621,Galleria Mall,26.137892,-80.110817
 701,Fort Lauderdale History Center,26.119902,-80.14566
 718,Fort Lauderdale International Airport,26.069815,-80.143417
-801,Broward Central Terminal,26.122838,-80.144609
+801,Broward Central Terminal,26.123556,-80.144742
 802,Sailboat Bend,26.117417,-80.146611
-803,Save-A-Lot,26.127980,-80.150522
-804,Dixie Court Apartments,26.123833,-80.154919
-805,Tri-Rail Station,26.119581,-80.170082
-806,African-American Research Library & Cultural Center,26.128937,-80.176457
+803,Save-A-Lot,26.129468,-80.150033
+804,Dixie Court Apartments,26.123842,-80.156151
+805,Tri-Rail Station,26.118870,-80.170001
+806,African-American Research Library & Cultural Center,26.128786,-80.177688
 807,Suncrest Court,26.146783,-80.171683
-808,Swap Shop,26.136380,-80.185159
-809,Life Net/Cooperative Feeding,26.121330,-80.191005
+808,Swap Shop,26.135590,-80.186731
+809,Life Net/Cooperative Feeding,26.121660,-80.190662
 810,West Broward Shopping Center,26.121153,-80.199225
-811,Plantation General Hospital,26.126213,-80.204214
-812,ChildNet(guess),26.121246,-80.202149
-813,Melrose Park,26.115942,-80.191537
+811,Plantation General Hospital,26.126494,-80.203994
+812,ChildNet,26.123081,-80.202188
+813,Melrose Park,26.114945,-80.193220
 815,Sunnyreach Acres,26.120687,-80.164556
+816,Dixie Court Apartments,26.121890,-80.155826
 901,Esplanade Park,26.119156,-80.148492
 902,Riverfront Plaza,26.118220,-80.143668
 903,Huizenga Plaza,26.118039,-80.142776
