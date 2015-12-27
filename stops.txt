@@ -44,7 +44,7 @@ stop_id,stop_name,stop_lat,stop_lon
 1004,Hillmont Gardens,26.153795,-80.155128
 1005,Broward Central Bus Terminal,26.123556,-80.144742
 1006,Tri-Rail FREE FDOT Park & Ride,26.118870,-80.170001
-1201,Tri-Rail Station,-80.150887,26.200756
+1201,Tri-Rail Station,26.200756,-80.150887
 1202,Uptown Centre,26.204733,-80.147964
 1203,Microsoft/Marriott,26.209218,-80.142298
 1204,Cypress Creek Station,26.205815,-80.147285
