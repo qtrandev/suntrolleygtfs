@@ -49,16 +49,16 @@ stop_id,stop_name,stop_lat,stop_lon
 1203,Microsoft/Marriott,26.209218,-80.142298
 1204,Cypress Creek Station,26.205815,-80.147285
 1205,Citrix Loop,26.207543,-80.151565
-1301,Broward College,26.119366,-80.141333
-1302,Florida Atlantic University,26.119690,-80.141341
-1303,Federal Courthouse,26.122871,-80.140566
-1304,Flagler Village,26.129753,-80.143761
-1305,Fort Lauderdale City Hall,26.124168,-80.143600
-1306,BCT Central Terminal,26.123293,-80.144617
-1307,Broward County GovGarage,26.121307,-80.144520
-1308,Broward County Government Center,26.120540,-80.143981
-1309,Broward County Libary,26.120569,-80.143421
-1310,City Park,26.120596,-80.141931
+1301,Federal Courthouse,26.122871,-80.140566
+1302,Flagler Village,26.129753,-80.143761
+1303,Fort Lauderdale City Hall,26.124168,-80.143600
+1304,BCT Central Terminal,26.123293,-80.144617
+1305,Broward County GovGarage,26.121307,-80.144520
+1306,Broward County Government Center,26.120540,-80.143981
+1307,Broward County Libary,26.120569,-80.143421
+1308,City Park,26.120596,-80.141931
+1309,Florida Atlantic University,26.119690,-80.141341
+1310,Broward College,26.119366,-80.141333
 1311,Courthouse Parking,26.115773,-80.140372
 1312,Broward County Courthouse,26.115171,-80.140303
 1313,Broward General Hospital,26.100913,-80.140902
