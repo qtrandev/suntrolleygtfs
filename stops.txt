@@ -1,6 +1,13 @@
 stop_id,stop_name,stop_lat,stop_lon
-401,Marriott's Beach Place,26.12195,-80.104362
-418,Museum of Discovery and Science,26.120447,-80.147438
+401,Marriott's Beach Place,26.121893,-80.104130
+402,NSU Art Museum Fort Lauderdale,26.119570,-80.143160
+403,Museum of Discovery and Science,26.120539,-80.148034
+404,Broward Center for the Performing Arts,26.120301,-80.148764
+405,Fort Lauderdale History Museum,26.120425,-80.145599
+406,Las Olas Riverfront,26.119653,-80.144543
+407,Stranahan House,26.119127,-80.137517
+408,Riverside Hotel,26.119125,-80.136565
+409,Water Taxi,26.119162,-80.133970
 501,Galt Reading Center,26.170176,-80.099136
 502,Anglin Fishing Pier,26.189439,-80.095800
 503,Lauderdale-By-The-Sea Town Hall,26.192330,-80.096413
