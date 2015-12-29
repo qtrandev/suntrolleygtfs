@@ -18,8 +18,22 @@ stop_id,stop_name,stop_lat,stop_lon
 508,Bayview/NE 26th Street,26.159934,-80.109635
 509,Galleria Mall,26.137798,-80.114621
 510,SR A1A/NE 21st Street,26.155594,-80.101233
-601,Broward General Hospital,26.100998,-80.139847
-621,Galleria Mall,26.137892,-80.110817
+601,Broward General Hospital,26.101046,-80.140099
+602,Harbor Shops,26.09752,-80.129729
+603,Broward County Convention Center,26.100330,-80.123930
+604,Marriott Harbor Beach Hotel,26.107828,-80.107479
+605,B Ocean Resort,26.108756,-80.106681
+606,Fort Lauderdale Beach Park,26.112791,-80.105460
+607,Bubba Gump Shrimp Co,26.117332,-80.104590
+608,Marriott's Beach Place,26.121893,-80.104130
+609,Hugh Taylor Birch State Park,26.138274,-80.104349
+610,Galleria Mall,26.137610,-80.113123
+611,Bonnet House Gardens & Museum,26.134002,-80.103363
+612,Courtyard by Marriott Hotel,26.117341,-80.105757
+613,International Swimming Hall of Fame,26.116077,-80.105682
+614,Bahia Mar Hotel & Marina,26.112833,-80.105668
+615,Hyatt Pier 66 Hotel,26.100937,-80.113962
+616,Renaissance Hotel,26.100695,-80.124155
 701,Fort Lauderdale History Center,26.119902,-80.14566
 718,Fort Lauderdale International Airport,26.069815,-80.143417
 801,Broward Central Terminal,26.123556,-80.144742
