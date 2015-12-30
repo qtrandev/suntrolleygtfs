@@ -35,7 +35,9 @@ stop_id,stop_name,stop_lat,stop_lon
 615,Hyatt Pier 66 Hotel,26.100937,-80.113962
 616,Renaissance Hotel,26.100695,-80.124155
 701,Fort Lauderdale History Center,26.119902,-80.14566
-718,Fort Lauderdale International Airport,26.069815,-80.143417
+702,Museum of Discovery and Science,26.120539,-80.148034
+703,Broward Center for the Performing Arts,26.120496,-80.149097
+704,Fort Lauderdale International Airport,26.072356,-80.140811
 801,Broward Central Terminal,26.123556,-80.144742
 802,Sailboat Bend,26.117417,-80.146611
 803,Save-A-Lot,26.129468,-80.150033
