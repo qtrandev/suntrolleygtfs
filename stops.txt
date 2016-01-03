@@ -53,14 +53,14 @@ stop_id,stop_name,stop_lat,stop_lon
 813,Melrose Park,26.114945,-80.193220
 815,Sunnyreach Acres,26.120687,-80.164556
 816,Dixie Court Apartments,26.121890,-80.155826
-901,Esplanade Park,26.119156,-80.148492
-902,Riverfront Plaza,26.118220,-80.143668
-903,Huizenga Plaza,26.118039,-80.142776
-904,Riverwalk Laura Ward Park,26.118191,-80.137220
-905,Smoker Park,26.117785,-80.137716
+901,Esplanade Park,26.119529,-80.147477
+902,Riverfront Plaza,26.118279,-80.144007
+903,Huizenga Plaza,26.118082,-80.14283
+904,Riverwalk Laura Ward Park,26.118289,-80.137158
+905,Smoker Park,26.117798,-80.137638
 906,Downtowner Saloon,26.117603,-80.142563
-907,New River Yacht Club,26.117897,-80.143918
-908,Tarpon River,26.119009,-80.147798
+907,New River Yacht Club,26.117853,-80.143585
+908,Tarpon River,26.118939,-80.147548
 1001,African American Research Library,26.128786,-80.177688
 1002,Winn-Dixie,26.138171,-80.154887
 1003,Lauderdale Manors Elementary,26.142584,-80.162102
